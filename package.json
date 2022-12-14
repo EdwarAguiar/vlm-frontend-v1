@@ -1,6 +1,7 @@
 {
   "name": "vlm-frontend-v1",
   "version": "0.1.0",
+  "description": "Frontend ViveroLosMedinas Version 1",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
